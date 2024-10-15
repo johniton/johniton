@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **webdev and C++**
 
-- 📫 How to reach me **johnitoncodes@gmail.com**
+- 📫 How to reach me **johnitoncodes@gmail.com** or **johnitonmas8@gmail.com**
 
 - ⚡ Fun fact **i likes sports**
 
