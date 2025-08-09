@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johniton" alt="johniton" /></a> </p>
 
-- 🌱 I’m currently learning **webdev and C++**
+- 🌱 I’m currently learning **Machine learning using python**
 
 - 📫 How to reach me **johnitoncodes@gmail.com** or **johnitonmas8@gmail.com**
 
